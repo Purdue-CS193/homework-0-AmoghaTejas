@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 # Amogha Tejas Sunkara's First CS193 Homework
 
-- Great opportunity to learn about GitHub.
-- Opens the pathway to participate in CS projects with Git knowledge.
+- Great opportunity to learn about GitHub
+- Opens the pathway to participate in CS projects with Git knowledge
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
